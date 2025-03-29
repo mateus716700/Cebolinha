@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\cebolinha\Cebolinha\bin\Debug\net9.0\Cebolinha.exe
+C:\Users\user\Downloads\cebolinha\Cebolinha\bin\Debug\net9.0\Cebolinha.deps.json
+C:\Users\user\Downloads\cebolinha\Cebolinha\bin\Debug\net9.0\Cebolinha.runtimeconfig.json
+C:\Users\user\Downloads\cebolinha\Cebolinha\bin\Debug\net9.0\Cebolinha.dll
+C:\Users\user\Downloads\cebolinha\Cebolinha\bin\Debug\net9.0\Cebolinha.pdb
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.AssemblyInfo.cs
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.sourcelink.json
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.dll
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\refint\Cebolinha.dll
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.pdb
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\Cebolinha.genruntimeconfig.cache
+C:\Users\user\Downloads\cebolinha\Cebolinha\obj\Debug\net9.0\ref\Cebolinha.dll
